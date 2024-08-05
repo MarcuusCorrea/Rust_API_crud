@@ -99,8 +99,8 @@ Deletar um Usuário (DELETE)
     URL: http://localhost:8080/users/{id}
 Método: DELETE
 
-IDE Utilizada
+## IDE Utilizada
 RustWover
 
-Autor
+## Autor
 Marcos Corrêa
