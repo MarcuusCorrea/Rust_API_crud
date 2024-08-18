@@ -37,8 +37,8 @@ version: '3.9'
         container_name: db
         image: postgres:12
         environment:
-          POSTGRES_USER: postgres
-          POSTGRES_PASSWORD: Zafenatepane1@
+          POSTGRES_USER: postgres/SEU USUARIO
+          POSTGRES_PASSWORD: SUA SENHA DO POSTEGRES
           POSTGRES_DB: postgres
         ports:
           - '5432:5432'
